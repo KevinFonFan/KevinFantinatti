@@ -3,16 +3,23 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_0788.JPG
 ---
 
 :::{#me}
 
 ## Goals
 
+My goals is to develop agricultural sustainable practices and improve farmers income.
+
 ## Education
 
+Bachelor's in Biological Sciences
+Master's student in Agricultural Sciences
+
 ## Experience
+
+Agroecology research, internship in Agroforest Farm and Farmer's Market vendor.
 
 :::
 
